@@ -12595,7 +12595,7 @@
 				},
 				{
 					"stations": [ "XAL", "EWAN" ],
-					"pathSuggestion": [ "XAL", "XAWE", "🇦🇹Neu H1", "XASH", "NPA", "NPL", "NST", "NOT", "NRH", "NFT", "NN", "NF", "NRTD", "NGM", "NLO", "NAH", "FBA", "FD", "FDG", "FMB", "FMZ", "FGAL", "FBGK", "KBOP", "KKO", "KAND", "KB", "KKAS", "KK", "KD", "EDG", "EOB", "EG", "EWAN" ]
+					"pathSuggestion": [ "XAL", "XAWE", "🇦🇹Neu H1", "XASH", "NPA", "NPL", "NST", "NOT", "NRH", "NFT", "NN", "NF", "NRTD", "NWH", "NGM", "NLO", "NAH", "FBA", "FD", "FDG", "FMB", "FMZ", "FGAL", "FBGK", "KBOP", "KKO", "KAND", "KB", "KKAS", "KK", "KD", "EDG", "EOB", "EG", "EWAN" ]
 				},
 				{
 					"stations": [ "LGC", "XSWI" ],
@@ -12682,7 +12682,7 @@
 			"objects": [
 				{
 					"stations": [ "🇳🇱Erp", "EDG" ],
-					"pathSuggestion": [ "🇳🇱Erp", "XNRC", "🇳🇱Gd", "🇳🇱Wd", "XNU", "XNAH", "EWES", "EOB", "EDG" ]
+					"pathSuggestion": [ "🇳🇱Erp", "XNRC", "🇳🇱Gd", "🇳🇱Wd", "XNU", "XNAH", "🇳🇱Zv", "EWES", "EOB", "EDG" ]
 				},
 				{
 					"stations": [ "BSPE", "EDG" ],
@@ -12873,11 +12873,11 @@
 			"objects": [
 				{
 					"stations": [ "XBAC", "XIGP" ],
-					"pathSuggestion": [ "XBAC", "XBB", "XBLE", "XBLIG", "XBHE", "KA", "KDN", "KK", "KKAS", "KB", "KAND", "KKO", "KBOP", "FBGK", "FGAL", "FMZ", "FWOR", "RM", "RSAB", "RK", "RAP", "RO", "RRL", "RDZ", "RF", "RBKR", "RML", "RB", "XSB", "XSBRU", "🇨🇭OTH", "🇨🇭HDK", "🇨🇭RK", "XSIM", "XSAG", "XSADF", "XSBC", "XSBZ", "XSCH", "XIMB", "XITOR", "XIAQ", "XIGP" ]
+					"pathSuggestion": [ "XBAC", "XBB", "XBLE", "XBLIG", "XBHE", "KA", "KDN", "KK", "KKAS", "KB", "KAND", "KKO", "KBOP", "FBGK", "FGAL", "FMZ", "FWOR", "RM", "RSAB", "RK", "RRA", "RAP", "RO", "RRL", "RDZ", "RF", "RBKR", "RML", "RB", "XSB", "XSBRU", "🇨🇭OTH", "🇨🇭HDK", "🇨🇭RK", "XSIM", "XSAG", "XSADF", "XSBC", "XSBZ", "XSCH", "XIMB", "XITOR", "XIAQ", "XIGP" ]
 				},
 				{
 					"stations": [ "XIGP", "XBAC" ],
-					"pathSuggestion": [ "XIGP", "XBB", "XBLE", "XBLIG", "XBHE", "KA", "KDN", "KK", "KKAS", "KB", "KAND", "KKO", "KBOP", "FBGK", "FGAL", "FMZ", "FWOR", "RM", "RSAB", "RK", "RAP", "RO", "RRL", "RDZ", "RF", "RBKR", "RML", "RB", "XSB", "XSBRU", "🇨🇭OTH", "🇨🇭HDK", "🇨🇭RK", "XSIM", "XSAG", "XSADF", "XSBC", "XSBZ", "XSCH", "XIMB", "XITOR", "XIAQ", "XBAC" ]
+					"pathSuggestion": [ "XIGP", "XBB", "XBLE", "XBLIG", "XBHE", "KA", "KDN", "KK", "KKAS", "KB", "KAND", "KKO", "KBOP", "FBGK", "FGAL", "FMZ", "FWOR", "RM", "RSAB", "RK", "RRA", "RAP", "RO", "RRL", "RDZ", "RF", "RBKR", "RML", "RB", "XSB", "XSBRU", "🇨🇭OTH", "🇨🇭HDK", "🇨🇭RK", "XSIM", "XSAG", "XSADF", "XSBC", "XSBZ", "XSCH", "XIMB", "XITOR", "XIAQ", "XBAC" ]
 				}
 			],
 			"neededCapacity": [
